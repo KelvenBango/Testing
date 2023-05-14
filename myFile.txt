@@ -1,0 +1,5 @@
+This file contains variables assigned to values
+
+a = 1;
+b = 2;
+c = 3;
